@@ -1,7 +1,7 @@
 {
-  "name": "parse-english",
-  "version": "4.1.3",
-  "description": "English natural language parser",
+  "name": "@pie-framework/parse-english",
+  "version": "1.0.0",
+  "description": "English natural language parser - fork of wooorm/parse-english",
   "license": "MIT",
   "keywords": [
     "nlcst",
@@ -10,16 +10,8 @@
     "language",
     "parser"
   ],
-  "repository": "wooorm/parse-english",
-  "bugs": "https://github.com/wooorm/parse-english/issues",
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/wooorm"
-  },
-  "author": "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
-  "contributors": [
-    "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"
-  ],
+  "repository": "pie-framework/parse-english",
+  "author": "",
   "files": [
     "index.js"
   ],
